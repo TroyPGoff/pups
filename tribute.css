@@ -10,7 +10,7 @@ html {
 	width: auto;
 	display: grid;
 	grid-template-columns: 20% 1fr 20%;
-	grid-template-rows: 15% auto;
+	grid-template-rows: 14% auto;
 }
 #title {
 	grid-column: 1/-1;
