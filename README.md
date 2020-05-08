@@ -1,2 +1,0 @@
-# pups
-Dedication to Blaze
